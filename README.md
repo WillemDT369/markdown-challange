@@ -3,16 +3,16 @@
 *“I have not failed. I've just found 10,000 ways that won't work.”
 ― Thomas A. Edison*
 
-![This is me] (./Willem.jpg)
+![image](./Willem.jpg)
 
-## I always look on the bright side of life
+## I always (tend to) look on the bright side of life
 
 | question | answer |
 |----------|------------|
 | Birthday | 02/02/1985 |
 | Favorite folor | blue |
 | Favorite food | Fresh salads |
-| Pineapple on pizza | [x] no |
+| Pineapple on pizza | &#9745; no &#9744; yes |
 
 ## Hobbies
 - Music
@@ -21,7 +21,7 @@
   - bass guitar
 - Cycling
 
-## You can always count on me for an honest opinion
+### You can always count on me for an honest opinion
 
 ## A funny story
 
